@@ -1,3 +1,10 @@
+###### https://takagotch.github.io/page479/
+---
+
+
+
+
+---
 # Datepicker
 
 [![Travis Build](https://img.shields.io/travis/charliekassel/vuejs-datepicker.svg)](https://travis-ci.org/charliekassel/vuejs-datepicker)
